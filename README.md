@@ -1,7 +1,7 @@
 # Project Details
 
 * Name - spring-hibernate-aop
-* Description - Spring 3.x / Hibernate 4.x with manages transactions
+* Description - Spring 3.x / Hibernate 4.x with managed transactions using annotations
 * Author - James Lawrence
 
 # Things you must do to get this example to work
